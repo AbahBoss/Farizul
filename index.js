@@ -11,4 +11,4 @@ else if(message.content === `hai`){
     
 })
 
-client.login("ODUxNDQxOTQ4OTI0MzEzNjAx.YL4VGw.rak4AuRe1lxLW9eJO2WKyvhzgSQ")
+client.login("ODUxNDQxOTQ4OTI0MzEzNjAx.YL4VGw.SQS1yNThDBBFpnnL93opCQvcflM")
